@@ -10,3 +10,5 @@ font-face {
     font-weight: normal;
     font-style: normal;
 }
+@media screen and (max-width: 1024px){
+    display: none;
